@@ -1,6 +1,6 @@
 @unpublished{Brun2025,
   author       = {Brun, Martin and Ramos, Xavier},
   title        = {A Cognitive Root in Fairness},
-  note         = {Unpublished working paper},
+  note         = {Working Paper},
   year         = {2025}
 }
